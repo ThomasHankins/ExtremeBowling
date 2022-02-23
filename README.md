@@ -1,12 +1,5 @@
 # CS 3GC3 - Project
 
-## Contributors (Group 2)
-
-- Sarvin Azadi    (azadis2)
-- Chandler Co     (coc)
-- Thomas Hankins  (hankinst)
-- Joseph Lee      (leej240)
-      
 ## Features Implemented
 
 * Lighting 
