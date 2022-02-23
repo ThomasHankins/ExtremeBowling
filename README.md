@@ -1,6 +1,6 @@
 # CS 3GC3 - Project
 
-To run file running the make command in the local directory should be sufficent. 
+To run the file: enter make command in the local directory. This will compile and run automatically.
 To clean and recompile, type make clean followed by make again.
 
 ## Features Implemented
